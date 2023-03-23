@@ -59,6 +59,7 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk)              | [Basic Gates](./COA/basic_gates/)             |
 | [Composite Adder-Subtractor](https://drive.google.com/file/d/1BzE1bD-5IZCuFdgcreYjnneT7GK0JuEF/view?usp=share_link) | [Adder & Subtractor](./COA/adder_subtractor/) |
+|                                                                                                                     | [Shift Register](./COA/shift_registers/)      |
 
 ---
 
