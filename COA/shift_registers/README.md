@@ -1,4 +1,4 @@
-## Basic Gates VHDL
+## Shift Registers VHDL
 
 1. [SISO Shift Register](siso.vhd)
 1. [SIPO Shift Register](sipo.vhd)
