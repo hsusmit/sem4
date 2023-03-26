@@ -53,6 +53,7 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 | Greedy Method I       | [Assignment 4](./DAA/assignment4/) |
 | Greedy Method II      | [Assignment 5](./DAA/assignment5/) |
 | Greedy Method III     | [Assignment 6](./DAA/assignment6/) |
+| Dynamic Programming I | [Assignment 7](./DAA/assignment7/) |
 
 ---
 
