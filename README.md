@@ -26,15 +26,18 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 
 :question: [Question Link](https://drive.google.com/file/d/15o1MAmkMAReHyUHMT7VpRWZTr7DARHP_/view?usp=drivesdk)
 
-| Week   | Assignments                                                                                      |
-| ------ | ------------------------------------------------------------------------------------------------ |
-| Week 1 | [Lab Assignment 1](./OS/assignment1/lab1.md)                                                     |
-| Week 2 | [Lab Assignment 2](./OS/assignment2/lab2.md) <br> [Home Assignment 2](./OS/assignment2/home2.md) |
-| Week 3 | [Lab Assignment 3](./OS/assignment3/lab3.md) <br> [Home Assignment 3](./OS/assignment3/home3.md) |
-| Week 4 | [Lab Assignment 4](./OS/assignment4/lab4.md)                                                     |
-| Week 5 | [Lab Assignment 5](./OS/assignment5/lab5.md) <br> [Home Assignment 5](./OS/assignment5/home5.md) |
-| Week 6 | [Lab Assignment 6](./OS/assignment6/lab6.md) <br> [Home Assignment 6](./OS/assignment6/home6.md) |
-| Week 7 | [Lab Assignment 7](./OS/assignment7/lab7.md) <br> [Home Assignment 7](./OS/assignment7/home7.md) |
+| Week    | Assignments                                                                                            |
+| ------- | ------------------------------------------------------------------------------------------------------ |
+| Week 1  | [Lab Assignment 1](./OS/assignment1/lab1.md)                                                           |
+| Week 2  | [Lab Assignment 2](./OS/assignment2/lab2.md) <br> [Home Assignment 2](./OS/assignment2/home2.md)       |
+| Week 3  | [Lab Assignment 3](./OS/assignment3/lab3.md) <br> [Home Assignment 3](./OS/assignment3/home3.md)       |
+| Week 4  | [Lab Assignment 4](./OS/assignment4/lab4.md)                                                           |
+| Week 5  | [Lab Assignment 5](./OS/assignment5/lab5.md) <br> [Home Assignment 5](./OS/assignment5/home5.md)       |
+| Week 6  | [Lab Assignment 6](./OS/assignment6/lab6.md) <br> [Home Assignment 6](./OS/assignment6/home6.md)       |
+| Week 7  | [Lab Assignment 7](./OS/assignment7/lab7.md) <br> [Home Assignment 7](./OS/assignment7/home7.md)       |
+| Week 8  | [Lab Assignment 8](./OS/assignment8/lab8.md) <br> [Home Assignment 8](./OS/assignment8/home8.md)       |
+| Week 9  | [Lab Assignment 9](./OS/assignment9/lab9.md) <br> [Home Assignment 9](./OS/assignment9/home9.md)       |
+| Week 10 | [Lab Assignment 10](./OS/assignment10/lab10.md) <br> [Home Assignment 10](./OS/assignment10/home10.md) |
 
 ---
 
@@ -59,7 +62,7 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk)              | [Basic Gates](./COA/basic_gates/)             |
 | [Composite Adder-Subtractor](https://drive.google.com/file/d/1BzE1bD-5IZCuFdgcreYjnneT7GK0JuEF/view?usp=share_link) | [Adder & Subtractor](./COA/adder_subtractor/) |
-| [BCD Adder](https://drive.google.com/file/d/1ehVgkiiovUclaAGIwE6XRKb0X_vIxeOK/view?usp=share_link)                  | [Shift Register](./COA/shift_registers/)      |
+| [BCD Adder](https://drive.google.com/file/d/1zB5zx_1UpNkREYYA-fZOwQYxxq3CWdEM/view?usp=share_link)                  | [Shift Register](./COA/shift_registers/)      |
 
 ---
 
