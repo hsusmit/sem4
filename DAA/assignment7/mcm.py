@@ -23,7 +23,7 @@ def mcm(arr):
 
 arr = [8, 12, 13, 14, 19]
 ans = mcm(arr)
-print("Minimal number of scalar multiplications:", ans)
+print("Minimal number of scaler multiplications:", ans)
 
 # OUTPUT
-# Minimal number of scalar multiplications: 4832
+# Minimal number of scaler multiplications: 4832

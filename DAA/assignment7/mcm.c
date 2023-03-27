@@ -33,8 +33,8 @@ int main()
     int arr[] = {8, 12, 13, 14, 19};
     int n = sizeof(arr) / sizeof(arr[0]);
     int ans = mcm(arr, n);
-    printf("Minimal number of scalar multiplications: %d", ans);
+    printf("Minimal number of scaler multiplications: %d", ans);
 }
 
 // OUTPUT
-// Minimal number of scalar multiplications : 4832
+// Minimal number of scaler multiplications : 4832
