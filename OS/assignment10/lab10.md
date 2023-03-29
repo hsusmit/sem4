@@ -9,5 +9,29 @@ _3. Present working directory_<br>
 _4. Quit_<br>
 
 ```bash
-code
+#!/bin/bash
+
+while true
+do
+    echo "Please select an option:"
+    echo "1. List of users currently logged in"
+    echo "2. Present date"
+    echo "3. Present working directory"
+    echo "4. Quit"
+    read choice
+
+    case $choice in
+        1)
+            who;;
+        2)
+            date;;
+        3)
+            pwd;;
+        4)
+            exit;;
+        *)
+            echo "Invalid choice.";;
+    esac
+done
+
 ```
