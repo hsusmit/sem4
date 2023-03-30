@@ -1,6 +1,6 @@
 # 4th Sem
 
-**Disclaimer:** _Nobody should copy the assignments from this repo. The codes in his GitHub and UEM's assignments have no similarity, and if anyone writes wrong codes from here, it is their own responsibility._
+**Disclaimer:** _Nobody should copy the assignments from this repo. The codes in this repository and UEM's assignments have no similarity, and if anyone writes wrong codes from here, it is their own responsibility._
 
 ---
 
