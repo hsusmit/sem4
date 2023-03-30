@@ -36,7 +36,7 @@ int main()
         printf("Memory allocation failed\n");
         return 0;
     }
-    printf("Merge sort in C\n");
+    printf("Bubble sort in C\n");
     printf("Input size: %d\n", n);
 
     // Best Case: Array is already sorted
@@ -68,7 +68,7 @@ int main()
 }
 
 // OUTPUT
-// Merge sort in C
+// Bubble sort in C
 // Input size: 10000
 // Best Case: 126.00 ms
 // Average Case: 176.00 ms
