@@ -70,8 +70,8 @@ int main()
 // Insertion sort in C
 // Input size: 10000
 // Best Case: 0.00 ms
-// Average Case: 73.00 ms
-// Worst Case 126.00 ms
+// Average Case: 76.00 ms
+// Worst Case 163.00 ms
 
 // The expected time complexity of insertion sort is O(n^2)
 // in the worst case, where n is the number of elements in the array.

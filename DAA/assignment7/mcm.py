@@ -21,9 +21,11 @@ def mcm(arr):
     return dp[1][n-1]
 
 
+print("Matrix Chain Multiplication in Python")
 arr = [8, 12, 13, 14, 19]
 ans = mcm(arr)
 print("Minimal number of scaler multiplications:", ans)
 
 # OUTPUT
+# Matrix Chain Multiplication in Python
 # Minimal number of scaler multiplications: 4832

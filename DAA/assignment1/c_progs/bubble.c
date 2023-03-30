@@ -70,9 +70,9 @@ int main()
 // OUTPUT
 // Bubble sort in C
 // Input size: 10000
-// Best Case: 126.00 ms
-// Average Case: 176.00 ms
-// Worst Case 209.00 ms
+// Best Case: 157.00 ms
+// Average Case: 236.00 ms
+// Worst Case 307.00 ms
 
 // Best Case: When the array is already sorted, the inner loop won't
 // execute at all, leading to O(n) time complexity.

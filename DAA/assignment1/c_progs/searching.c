@@ -121,10 +121,10 @@ int main()
 // OUTPUT
 // Best case scenario for linear search: 0.00 ms
 // Best case scenario for binary search: 0.00 ms
-// Average case scenario for linear search: 22.00 ms
-// Average case scenario for binary search: 1.00 ms
+// Average case scenario for linear search: 7.00 ms
+// Average case scenario for binary search: 0.00 ms
 // Worst case scenario for linear search: 33.00 ms
-// Worst case scenario for binary search: 4.00 ms
+// Worst case scenario for binary search: 0.00 ms
 
 // Binary search is more efficient than linear search because
 // it divides the search area in half with each iteration, reducing

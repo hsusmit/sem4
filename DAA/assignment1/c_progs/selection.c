@@ -70,9 +70,9 @@ int main()
 // OUTPUT
 // Selection sort in C
 // Input size: 10000
-// Best Case: 128.00 ms
-// Average Case: 121.00 ms
-// Worst Case 103.00 ms
+// Best Case: 169.00 ms
+// Average Case: 151.00 ms
+// Worst Case 132.00 ms
 
 // In this case, the algorithm needs to make n-1 passes through the array to sort it,
 // but each pass takes O(n) time. Thus the time complexity of selection sort is O(n^2)

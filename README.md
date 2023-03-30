@@ -1,4 +1,8 @@
-# UEM 4th Sem
+# 4th Sem
+
+**Disclaimer:** _Nobody should copy the assignments from this repo. The codes in his GitHub and UEM's assignments have no similarity, and if anyone writes wrong codes from here, it is their own responsibility._
+
+---
 
 Go to :arrow_right: [AIML Lab :brain:](#aiml-lab-brain) <br>
 Go to :arrow_right: [OS Lab :penguin:](#os-lab-penguin) <br>
@@ -46,15 +50,16 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 
 :question: [Question Link](https://drive.google.com/file/d/1SKvDe8jgySiOxUjLt8G6e-yr7ajdNLxd/view?usp=share_link)
 
-| Topic                 | Assignments                        |
-| --------------------- | ---------------------------------- |
-| Searching and Sorting | [Assignment 1](./DAA/assignment1/) |
-| Divide & Conquer I    | [Assignment 2](./DAA/assignment2/) |
-| Divide & Conquer II   | [Assignment 3](./DAA/assignment3/) |
-| Greedy Method I       | [Assignment 4](./DAA/assignment4/) |
-| Greedy Method II      | [Assignment 5](./DAA/assignment5/) |
-| Greedy Method III     | [Assignment 6](./DAA/assignment6/) |
-| Dynamic Programming I | [Assignment 7](./DAA/assignment7/) |
+| Topic                  | Assignments                        |
+| ---------------------- | ---------------------------------- |
+| Searching and Sorting  | [Assignment 1](./DAA/assignment1/) |
+| Divide & Conquer I     | [Assignment 2](./DAA/assignment2/) |
+| Divide & Conquer II    | [Assignment 3](./DAA/assignment3/) |
+| Greedy Method I        | [Assignment 4](./DAA/assignment4/) |
+| Greedy Method II       | [Assignment 5](./DAA/assignment5/) |
+| Greedy Method III      | [Assignment 6](./DAA/assignment6/) |
+| Dynamic Programming I  | [Assignment 7](./DAA/assignment7/) |
+| Dynamic Programming II | [Assignment 8](./DAA/assignment8/) |
 
 ---
 

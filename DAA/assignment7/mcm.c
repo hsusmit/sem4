@@ -30,6 +30,7 @@ int mcm(int arr[], int n)
 
 int main()
 {
+    printf("Matrix Chain Multiplication in C\n");
     int arr[] = {8, 12, 13, 14, 19};
     int n = sizeof(arr) / sizeof(arr[0]);
     int ans = mcm(arr, n);
@@ -37,4 +38,5 @@ int main()
 }
 
 // OUTPUT
+// Matrix Chain Multiplication in C
 // Minimal number of scaler multiplications : 4832
