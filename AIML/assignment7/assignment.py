@@ -73,40 +73,40 @@ print(
 
 # OUTPUT
 # Decision Tree Regressor
-# max_depth = 1, R^2 score = 0.3602156982888398
+# max_depth = 1, R^2 score = 0.3602156982888397
 # max_depth = 2, R^2 score = 0.6455495710736121
 # max_depth = 3, R^2 score = 0.8160292234821611
-# max_depth = 4, R^2 score = 0.7306868217984426
-# max_depth = 5, R^2 score = 0.885137272531848
-# max_depth = 6, R^2 score = 0.8673636472053167
-# max_depth = 7, R^2 score = 0.7289399366126473
-# max_depth = 8, R^2 score = 0.8860954007733421
-# max_depth = 9, R^2 score = 0.8760090718789401
-# max_depth = 10, R^2 score = 0.8537065241879563
-# Optimum max_depth value = 8
+# max_depth = 4, R^2 score = 0.855229172828375
+# max_depth = 5, R^2 score = 0.8833565347917995
+# max_depth = 6, R^2 score = 0.7176628338469286
+# max_depth = 7, R^2 score = 0.8671839668168589
+# max_depth = 8, R^2 score = 0.7079869883148955
+# max_depth = 9, R^2 score = 0.8806587759779556
+# max_depth = 10, R^2 score = 0.6817728268989374
+# Optimum max_depth value = 5
 
 # Random Forest Regressor
-# max_depth = 1, R^2 score = 0.4827301126691087
-# max_depth = 2, R^2 score = 0.7157243744861153
-# max_depth = 3, R^2 score = 0.8328240698982
-# max_depth = 4, R^2 score = 0.8429144658172141
-# max_depth = 5, R^2 score = 0.8616094916175724
-# max_depth = 6, R^2 score = 0.8642816675611302
-# max_depth = 7, R^2 score = 0.8775811274928114
-# max_depth = 8, R^2 score = 0.8671572670523888
-# max_depth = 9, R^2 score = 0.8845548450237113
-# max_depth = 10, R^2 score = 0.8618766913306678
-# Optimum max_depth value = 9
+# max_depth = 1, R^2 score = 0.49460698197557706
+# max_depth = 2, R^2 score = 0.7048097827827444
+# max_depth = 3, R^2 score = 0.8284738655974604
+# max_depth = 4, R^2 score = 0.8453015302998119
+# max_depth = 5, R^2 score = 0.8665923018901309
+# max_depth = 6, R^2 score = 0.8616453743764854
+# max_depth = 7, R^2 score = 0.8887760698005752
+# max_depth = 8, R^2 score = 0.879164105646071
+# max_depth = 9, R^2 score = 0.8812833122027885
+# max_depth = 10, R^2 score = 0.8904026480270838
+# Optimum max_depth value = 10
 
 # Decision Tree Classifier
 # max_depth = 1, Accuracy score = 0.8947368421052632
 # max_depth = 2, Accuracy score = 0.9298245614035088
 # max_depth = 3, Accuracy score = 0.9473684210526315
-# max_depth = 4, Accuracy score = 0.9385964912280702
+# max_depth = 4, Accuracy score = 0.9298245614035088
 # max_depth = 5, Accuracy score = 0.9473684210526315
-# max_depth = 6, Accuracy score = 0.9385964912280702
-# max_depth = 7, Accuracy score = 0.9298245614035088
-# max_depth = 8, Accuracy score = 0.9385964912280702
-# max_depth = 9, Accuracy score = 0.9473684210526315
-# max_depth = 10, Accuracy score = 0.9473684210526315
+# max_depth = 6, Accuracy score = 0.9298245614035088
+# max_depth = 7, Accuracy score = 0.9473684210526315
+# max_depth = 8, Accuracy score = 0.9473684210526315
+# max_depth = 9, Accuracy score = 0.9298245614035088
+# max_depth = 10, Accuracy score = 0.9385964912280702
 # Optimum max_depth value = 3

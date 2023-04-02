@@ -4,4 +4,4 @@ ClassWork :arrow_right: [PDF](https://drive.google.com/file/d/1sIcGEnaJ4AOKGliPc
 
 Assignment 6 :arrow_right: [Link](max_iter.py)
 
-Output :arrow_right: [PDF](https://drive.google.com/file/d/1fqElNr6PhYTioJEf4YSQ7BzcQke9nDpV/view?usp=share_link)
+Output :arrow_right: [PDF](https://drive.google.com/file/d/1cQS9gTdVX9dkTI-iKbxLq72inDxjRx49/view?usp=share_link)

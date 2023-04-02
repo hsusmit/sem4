@@ -4,4 +4,4 @@ ClassWork :arrow_right: [PDF](https://drive.google.com/file/d/1U7nhF9xOMAuigbgEB
 
 Assignment 8 :arrow_right: [Link](clustering.py)
 
-Output :arrow_right: [PDF](https://drive.google.com/file/d/179YouOsLJM1oMOSSzo0Ye4OfrQm0R-7q/view?usp=share_link)
+Output :arrow_right: [PDF](https://drive.google.com/file/d/1XjQKS8Oidlzipq24FvLabGnD99QA0JYC/view?usp=share_link)
