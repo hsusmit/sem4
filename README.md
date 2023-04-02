@@ -15,15 +15,16 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 
 ## AIML Lab :brain:
 
-| No. | Assignment                                       |
-| --- | ------------------------------------------------ |
-| #1  | [Assignment 1](./AIML/assignment1/family.pl)     |
-| #2  | [Assignment 2](./AIML/assignment2)               |
-| #3  | [Assignment 3](./AIML/assignment3)               |
-| #4  | [Assignment 4](./AIML/assignment4)               |
-| #5  | [Assignment 5](./AIML/assignment5)               |
-| #6  | [Assignment 6](./AIML/assignment6/max_iter.py)   |
-| #7  | [Assignment 7](./AIML/assignment7/assignment.py) |
+| No. | Assignment                                   |
+| --- | -------------------------------------------- |
+| #1  | [Assignment 1](./AIML/assignment1/family.pl) |
+| #2  | [Assignment 2](./AIML/assignment2)           |
+| #3  | [Assignment 3](./AIML/assignment3)           |
+| #4  | [Assignment 4](./AIML/assignment4)           |
+| #5  | [Assignment 5](./AIML/assignment5)           |
+| #6  | [Assignment 6](./AIML/assignment6/)          |
+| #7  | [Assignment 7](./AIML/assignment7/)          |
+| #8  | [Assignment 8](./AIML/assignment8/)          |
 
 ---
 
@@ -50,16 +51,18 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 
 :question: [Question Link](https://drive.google.com/file/d/1SKvDe8jgySiOxUjLt8G6e-yr7ajdNLxd/view?usp=share_link)
 
-| Topic                  | Assignments                        |
-| ---------------------- | ---------------------------------- |
-| Searching and Sorting  | [Assignment 1](./DAA/assignment1/) |
-| Divide & Conquer I     | [Assignment 2](./DAA/assignment2/) |
-| Divide & Conquer II    | [Assignment 3](./DAA/assignment3/) |
-| Greedy Method I        | [Assignment 4](./DAA/assignment4/) |
-| Greedy Method II       | [Assignment 5](./DAA/assignment5/) |
-| Greedy Method III      | [Assignment 6](./DAA/assignment6/) |
-| Dynamic Programming I  | [Assignment 7](./DAA/assignment7/) |
-| Dynamic Programming II | [Assignment 8](./DAA/assignment8/) |
+| Topic                   | Assignments                        |
+| ----------------------- | ---------------------------------- |
+| Searching and Sorting   | [Assignment 1](./DAA/assignment1/) |
+| Divide & Conquer I      | [Assignment 2](./DAA/assignment2/) |
+| Divide & Conquer II     | [Assignment 3](./DAA/assignment3/) |
+| Greedy Method I         | [Assignment 4](./DAA/assignment4/) |
+| Greedy Method II        | [Assignment 5](./DAA/assignment5/) |
+| Greedy Method III       | [Assignment 6](./DAA/assignment6/) |
+| Dynamic Programming I   | [Assignment 7](./DAA/assignment7/) |
+| Dynamic Programming II  | [Assignment 8](./DAA/assignment8/) |
+| Dynamic Programming III | Assignment 9                       |
+| Backtracking            | Assignment 10                      |
 
 ---
 
