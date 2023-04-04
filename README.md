@@ -23,7 +23,6 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 | #4  | [Assignment 4](./AIML/assignment4)           |
 | #5  | [Assignment 5](./AIML/assignment5)           |
 | #6  | [Assignment 6](./AIML/assignment6/)          |
-| #7  | [Assignment 7](./AIML/assignment7/)          |
 | #8  | [Assignment 8](./AIML/assignment8/)          |
 
 ---
