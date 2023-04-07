@@ -1,8 +1,9 @@
-# Write a python program to perform insertion sort using dynamic memory 
+# Write a python program to perform insertion sort using dynamic memory
 # allocation. Show the running time complexity w.r.t different input cases.
 
 import random
 import time
+
 
 def insertion_sort(arr):
     for i in range(1, len(arr)):
@@ -13,6 +14,7 @@ def insertion_sort(arr):
             j -= 1
         arr[j + 1] = key
 
+
 if __name__ == "__main__":
     n = 5000
     arr = []
@@ -21,7 +23,7 @@ if __name__ == "__main__":
 
     # Best Case: Array is already sorted
     for i in range(n):
-        arr.append(i) 
+        arr.append(i)
     start = time.time()
     insertion_sort(arr)
     end = time.time()
@@ -49,6 +51,6 @@ if __name__ == "__main__":
 # OUTPUT
 # Insertion Sort in Python
 # Input size: 5000
-# Best Case: 0.0013 seconds
-# Average Case: 0.5914 seconds
-# Worst Case: 1.1979 seconds
+# Best Case: 0.0000 seconds
+# Average Case: 0.7041 seconds
+# Worst Case: 1.3957 seconds

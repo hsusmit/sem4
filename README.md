@@ -60,8 +60,10 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 | Greedy Method III       | [Assignment 6](./DAA/assignment6/) |
 | Dynamic Programming I   | [Assignment 7](./DAA/assignment7/) |
 | Dynamic Programming II  | [Assignment 8](./DAA/assignment8/) |
-| Dynamic Programming III | Assignment 9                       |
+| Dynamic Programming III | [Assignment 9](./DAA/assignment9/) |
 | Backtracking            | Assignment 10                      |
+
+Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/12cA2oswTGi0NzyMscfK0yCtGUTcZ5Ckl/view?usp=share_link)
 
 ---
 
@@ -93,3 +95,15 @@ Go to :arrow_right: [Study Materials :books:](#study-materials-books)
 - [Design & Analysis of Algorithms](https://drive.google.com/drive/folders/1SyUtJOjIPBFJMwx8zJAZ0Xjaf6eRjApg?usp=share_link)
 - [Operating Systems](https://drive.google.com/drive/folders/1AKfa7NIr2bvKNWT4vfEQ0G8k_XMRYuBz?usp=share_link)
 - [Computer Organization & Architecture](https://drive.google.com/drive/folders/14RcEtJm0G15KSUN77ka43CKdoWzMCS8D?usp=share_link)
+
+---
+
+## Question Papers :spiral_notepad:
+
+### 2022 Question Papers
+
+- [Artificial Intelligence & Machine Learning](https://drive.google.com/file/d/1PAZRk6scgkrgVMzUuc8rrX3TQay-W16t/view?usp=share_link)
+- [Operating Systems](https://drive.google.com/file/d/1PBHDMIeFz4Yav9oc8q-QZKwlbrBgB5KX/view?usp=share_link)
+- [Design & Analysis of Algorithms](https://drive.google.com/file/d/1P72dpLaEm_opCp7M_CR8hWT94SpKSUqj/view?usp=share_link)
+- [Computer Organization & Architecture](https://drive.google.com/file/d/1P0kJwWYellE_qxAGEWXmbJ-FPm7MtadI/view?usp=share_link)
+- [Environmental Sciences](https://drive.google.com/file/d/1PD9L2BJlalxg-F3cTodKz4vsO1wvtvve/view?usp=share_link)

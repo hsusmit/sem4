@@ -1,15 +1,17 @@
-# Write a python program to perform bubble sort using dynamic memory 
+# Write a python program to perform bubble sort using dynamic memory
 # allocation. Show the running time complexity w.r.t different input cases.
 
 import random
 import time
 
+
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
         for j in range(0, n-i-1):
-            if arr[j] > arr[j+1] :
+            if arr[j] > arr[j+1]:
                 arr[j], arr[j+1] = arr[j+1], arr[j]
+
 
 if __name__ == "__main__":
     n = 5000
@@ -19,7 +21,7 @@ if __name__ == "__main__":
 
     # Best Case: Array is already sorted
     for i in range(n):
-        arr.append(i) 
+        arr.append(i)
     start = time.time()
     bubble_sort(arr)
     end = time.time()
@@ -47,6 +49,6 @@ if __name__ == "__main__":
 # OUTPUT
 # Bubble Sort in Python
 # Input size: 5000
-# Best Case: 0.7112 seconds
-# Average Case: 1.2552 seconds
-# Worst Case: 1.6796 seconds
+# Best Case: 0.7951 seconds
+# Average Case: 1.4894 seconds
+# Worst Case: 1.9366 seconds

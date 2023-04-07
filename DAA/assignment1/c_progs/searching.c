@@ -75,7 +75,6 @@ int main()
     printf("Best case scenario for linear search: %.2f ms\n", ((double)(end - start)) * 1000 / CLOCKS_PER_SEC);
 
     // Binary Search: Best Case
-    x = arr[(n - 1) / 2];
     start = clock();
     for (i = 0; i < 10000; i++)
         result = binarySearch(arr, 0, n - 1, x);
@@ -91,7 +90,6 @@ int main()
     printf("Average case scenario for linear search: %.2f ms\n", ((double)(end - start)) * 1000 / CLOCKS_PER_SEC);
 
     // Binary Search: Average Case
-    x = arr[62];
     start = clock();
     for (i = 0; i < 10000; i++)
         result = binarySearch(arr, 0, n - 1, x);
@@ -107,7 +105,6 @@ int main()
     printf("Worst case scenario for linear search: %.2f ms\n", ((double)(end - start)) * 1000 / CLOCKS_PER_SEC);
 
     // Binary Search: Worst Case
-    x = arr[n - 1];
     start = clock();
     for (i = 0; i < 10000; i++)
         result = binarySearch(arr, 0, n - 1, x);
@@ -121,10 +118,10 @@ int main()
 // OUTPUT
 // Best case scenario for linear search: 0.00 ms
 // Best case scenario for binary search: 0.00 ms
-// Average case scenario for linear search: 7.00 ms
-// Average case scenario for binary search: 0.00 ms
-// Worst case scenario for linear search: 33.00 ms
-// Worst case scenario for binary search: 0.00 ms
+// Average case scenario for linear search: 17.00 ms
+// Average case scenario for binary search: 2.00 ms
+// Worst case scenario for linear search: 38.00 ms
+// Worst case scenario for binary search: 1.00 ms
 
 // Binary search is more efficient than linear search because
 // it divides the search area in half with each iteration, reducing

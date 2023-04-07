@@ -1,8 +1,9 @@
-# Write a python program to perform selection sort using dynamic memory 
+# Write a python program to perform selection sort using dynamic memory
 # allocation. Show the running time complexity w.r.t different input cases.
 
 import random
 import time
+
 
 def selection_sort(arr):
     for i in range(len(arr)):
@@ -11,7 +12,8 @@ def selection_sort(arr):
             if arr[j] < arr[min_idx]:
                 min_idx = j
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
-    
+
+
 if __name__ == "__main__":
     n = 5000
     arr = []
@@ -20,7 +22,7 @@ if __name__ == "__main__":
 
     # Best Case: Array is already sorted
     for i in range(n):
-        arr.append(i) 
+        arr.append(i)
     start = time.time()
     selection_sort(arr)
     end = time.time()
@@ -48,6 +50,6 @@ if __name__ == "__main__":
 # OUTPUT
 # Selection Sort in Python
 # Input size: 5000
-# Best Case: 0.5356 seconds
-# Average Case: 0.5583 seconds
-# Worst Case: 0.5813 seconds
+# Best Case: 0.6708 seconds
+# Average Case: 0.7661 seconds
+# Worst Case: 0.7046 seconds
