@@ -10,7 +10,7 @@ Go to :arrow_right: [DAA Lab :trollface:](#daa-lab-trollface) <br>
 Go to :arrow_right: [COA Lab :zero: :one:](#coa-lab-zeroone) <br>
 Go to :arrow_right: [Organizational Behavior :briefcase:](#organizational-behavior-briefcase) <br>
 Go to :arrow_right: [Study Materials :books:](#study-materials-books) <br>
-Go to :arrow_right: [#Question Papers :spiral_notepad:](#question-papers-spiral_notepad)
+Go to :arrow_right: [Question Papers :spiral_notepad:](#question-papers-spiral_notepad)
 
 ---
 
