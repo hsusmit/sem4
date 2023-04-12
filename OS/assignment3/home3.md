@@ -57,6 +57,7 @@ _4. Write a shell script to implement a basic calculator (+,-,/,\*)_ <br>
 
 ```bash
 #!/bin/bash
+
 echo "Enter two numbers: "
 read num1
 read num2
@@ -205,7 +206,7 @@ _vi. check the permissions with ls -l_ <br>
 $ ls -l
 ```
 
-_vii. change the permissions of 'deer' to -rwx r-- r--_ <br>
+_vii. change the permissions of 'deer' to rwx r-- r--_ <br>
 
 ```bash
 $ chmod 744 deer
@@ -214,7 +215,7 @@ $ chmod 744 deer
 _viii. change the permissions of 'today' to -rw- r-- r--_ <br>
 
 ```bash
-$ chmod 754 today
+$ chmod 644 today
 ```
 
 _ix. check the permissions with ls -l_ <br>
