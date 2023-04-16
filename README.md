@@ -1,9 +1,5 @@
 # 4th Sem
 
-**Disclaimer:** _Nobody should copy the assignments from this repo. The codes in this repository and UEM's assignments have no similarity, and if anyone writes wrong codes from here, it is their own responsibility._
-
----
-
 Go to :arrow_right: [AIML Lab :brain:](#aiml-lab-brain) <br>
 Go to :arrow_right: [OS Lab :penguin:](#os-lab-penguin) <br>
 Go to :arrow_right: [DAA Lab :trollface:](#daa-lab-trollface) <br>
@@ -73,8 +69,9 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/12cA2oswT
 | Hardware                                                                                                            | Software                                      |
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk)              | [Basic Gates](./COA/basic_gates/)             |
-| [Composite Adder-Subtractor](https://drive.google.com/file/d/1BzE1bD-5IZCuFdgcreYjnneT7GK0JuEF/view?usp=share_link) | [Adder & Subtractor](./COA/adder_subtractor/) |
-| [BCD Adder](https://drive.google.com/file/d/1zB5zx_1UpNkREYYA-fZOwQYxxq3CWdEM/view?usp=share_link)                  | [Shift Register](./COA/shift_registers/)      |
+| [Composite Adder-Subtractor](https://drive.google.com/file/d/1svzrDydz5VKaKU6h5SSsTglSpnR6MaEL/view?usp=share_link) | [Adder & Subtractor](./COA/adder_subtractor/) |
+| [BCD Adder](https://drive.google.com/file/d/1dcpM1I7HZht4f4nV9wU4WRBzDkkK8Q5N/view?usp=share_link)                  | [Shift Register](./COA/shift_registers/)      |
+| [Composite Logic Unit](https://drive.google.com/file/d/1RnBIqdMBTDCqzQxQkPijQnn1Qi4EUaP1/view?usp=share_link)       |                                               |
 
 ---
 
