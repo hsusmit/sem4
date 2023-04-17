@@ -66,12 +66,12 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/12cA2oswT
 
 ## COA Lab :zero::one:
 
-| Hardware                                                                                                            | Software                                      |
-| ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk)              | [Basic Gates](./COA/basic_gates/)             |
-| [Composite Adder-Subtractor](https://drive.google.com/file/d/1svzrDydz5VKaKU6h5SSsTglSpnR6MaEL/view?usp=share_link) | [Adder & Subtractor](./COA/adder_subtractor/) |
-| [BCD Adder](https://drive.google.com/file/d/1dcpM1I7HZht4f4nV9wU4WRBzDkkK8Q5N/view?usp=share_link)                  | [Shift Register](./COA/shift_registers/)      |
-| [Composite Logic Unit](https://drive.google.com/file/d/1RnBIqdMBTDCqzQxQkPijQnn1Qi4EUaP1/view?usp=share_link)       |                                               |
+| Hardware                                                                                                            | Software                                              |
+| ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk)              | [Basic Gates](./COA/basic_gates/)                     |
+| [Composite Adder-Subtractor](https://drive.google.com/file/d/1svzrDydz5VKaKU6h5SSsTglSpnR6MaEL/view?usp=share_link) | [Adder & Subtractor](./COA/adder_subtractor/)         |
+| [BCD Adder](https://drive.google.com/file/d/1dcpM1I7HZht4f4nV9wU4WRBzDkkK8Q5N/view?usp=share_link)                  | [Shift Register](./COA/shift_registers/)              |
+| [Composite Logic Unit](https://drive.google.com/file/d/1RnBIqdMBTDCqzQxQkPijQnn1Qi4EUaP1/view?usp=share_link)       | [Arithmetic Operations](./COA/arithmetic_operations/) |
 
 ---
 
