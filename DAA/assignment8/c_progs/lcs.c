@@ -26,7 +26,7 @@ void lcs(char s1[], char s2[])
     }
 
     int len = dp[n][m];
-    char ans[len];
+    char ans[len + 1];
     ans[len] = '\0';
     int index = len - 1;
     int i = n, j = m;

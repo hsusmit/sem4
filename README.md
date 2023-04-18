@@ -47,20 +47,20 @@ Go to :arrow_right: [Question Papers :spiral_notepad:](#question-papers-spiral_n
 
 :question: [Question Link](https://drive.google.com/file/d/1SKvDe8jgySiOxUjLt8G6e-yr7ajdNLxd/view?usp=share_link)
 
-| Topic                   | Assignments                        |
-| ----------------------- | ---------------------------------- |
-| Searching and Sorting   | [Assignment 1](./DAA/assignment1/) |
-| Divide & Conquer I      | [Assignment 2](./DAA/assignment2/) |
-| Divide & Conquer II     | [Assignment 3](./DAA/assignment3/) |
-| Greedy Method I         | [Assignment 4](./DAA/assignment4/) |
-| Greedy Method II        | [Assignment 5](./DAA/assignment5/) |
-| Greedy Method III       | [Assignment 6](./DAA/assignment6/) |
-| Dynamic Programming I   | [Assignment 7](./DAA/assignment7/) |
-| Dynamic Programming II  | [Assignment 8](./DAA/assignment8/) |
-| Dynamic Programming III | [Assignment 9](./DAA/assignment9/) |
-| Backtracking            | Assignment 10                      |
+| Topic                   | Assignments                          |
+| ----------------------- | ------------------------------------ |
+| Searching and Sorting   | [Assignment 1](./DAA/assignment1/)   |
+| Divide & Conquer I      | [Assignment 2](./DAA/assignment2/)   |
+| Divide & Conquer II     | [Assignment 3](./DAA/assignment3/)   |
+| Greedy Method I         | [Assignment 4](./DAA/assignment4/)   |
+| Greedy Method II        | [Assignment 5](./DAA/assignment5/)   |
+| Greedy Method III       | [Assignment 6](./DAA/assignment6/)   |
+| Dynamic Programming I   | [Assignment 7](./DAA/assignment7/)   |
+| Dynamic Programming II  | [Assignment 8](./DAA/assignment8/)   |
+| Dynamic Programming III | [Assignment 9](./DAA/assignment9/)   |
+| Backtracking            | [Assignment 10](./DAA/assignment10/) |
 
-Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/12cA2oswTGi0NzyMscfK0yCtGUTcZ5Ckl/view?usp=share_link)
+Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/16AH5Eu-hwfn9pWf7-kGqeuFwGKQQvsRs/view?usp=share_link)
 
 ---
 

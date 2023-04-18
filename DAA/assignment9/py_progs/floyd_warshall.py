@@ -18,12 +18,10 @@ def floyd_warshall(adj_matrix):
     n = len(adj_matrix)
     dist = [[INF] * n for _ in range(n)]
 
-    # initialize distances
     for i in range(n):
         for j in range(n):
             dist[i][j] = adj_matrix[i][j]
 
-    # consider intermediate vertices
     for k in range(n):
         for i in range(n):
             for j in range(n):
