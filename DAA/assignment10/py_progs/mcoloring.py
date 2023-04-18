@@ -58,7 +58,6 @@ else:
         print("Coloring", count, ":", i)
         count += 1
 
-print()
 # Output:
 # M - Coloring Problem in Python
 # Coloring 1 : [1, 2, 1, 3]
