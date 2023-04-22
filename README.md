@@ -66,6 +66,8 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/16AH5Eu-h
 
 ## COA Lab :zero::one:
 
+[Cheatsheet](./COA/cheatsheet.md)
+
 | Hardware                                                                                                            | Software                                              |
 | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | [Shift Registers](https://drive.google.com/file/d/11cb8rPVw17eLTPiN5-_xJglYm9hL7dhI/view?usp=drivesdk)              | [Basic Gates](./COA/basic_gates/)                     |
@@ -90,8 +92,8 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/16AH5Eu-h
 - [Organizational Behavior](https://drive.google.com/drive/folders/1lzAaGkzRAc3y58SlpB09CezFj___q_EY?usp=share_link)
 - [Discrete Mathematics](https://drive.google.com/drive/folders/1oR7jzT5vrKZpYrcmbpDN1R5kwsJph-2t?usp=share_link)
 - [Artificial Intelligence & Machine Learning](https://drive.google.com/drive/folders/1WktcDGmhf5h0XcEJI74aFnvt3LDQ0O8F?usp=share_link)
-- [Design & Analysis of Algorithms](https://drive.google.com/drive/folders/1SyUtJOjIPBFJMwx8zJAZ0Xjaf6eRjApg?usp=share_link)
 - [Operating Systems](https://drive.google.com/drive/folders/1AKfa7NIr2bvKNWT4vfEQ0G8k_XMRYuBz?usp=share_link)
+- [Design & Analysis of Algorithms](https://drive.google.com/drive/folders/1SyUtJOjIPBFJMwx8zJAZ0Xjaf6eRjApg?usp=share_link)
 - [Computer Organization & Architecture](https://drive.google.com/drive/folders/14RcEtJm0G15KSUN77ka43CKdoWzMCS8D?usp=share_link)
 
 ---
@@ -100,8 +102,10 @@ Merged Output :arrow_right: [PDF Link](https://drive.google.com/file/d/16AH5Eu-h
 
 ### 2022 Question Papers
 
-- [Artificial Intelligence & Machine Learning](https://drive.google.com/file/d/1PAZRk6scgkrgVMzUuc8rrX3TQay-W16t/view?usp=share_link)
-- [Operating Systems](https://drive.google.com/file/d/1PBHDMIeFz4Yav9oc8q-QZKwlbrBgB5KX/view?usp=share_link)
-- [Design & Analysis of Algorithms](https://drive.google.com/file/d/1P72dpLaEm_opCp7M_CR8hWT94SpKSUqj/view?usp=share_link)
-- [Computer Organization & Architecture](https://drive.google.com/file/d/1P0kJwWYellE_qxAGEWXmbJ-FPm7MtadI/view?usp=share_link)
-- [Environmental Sciences](https://drive.google.com/file/d/1PD9L2BJlalxg-F3cTodKz4vsO1wvtvve/view?usp=share_link)
+- [ESP IV](https://drive.google.com/file/d/1UfgBf4b6X_9JMLBkfDjoyWxpK9_P58ro/view?usp=share_link)
+- [Environmental Sciences](https://drive.google.com/file/d/1UrETmDwnE0WrorZfO3gfoqIqxde1sDNw/view?usp=share_link)
+- [Discrete Mathematics](https://drive.google.com/file/d/1UtC82sfA0FE8_-TSP1WktFDH8NLy0EZ3/view?usp=share_link)
+- [Artificial Intelligence & Machine Learning](https://drive.google.com/file/d/1UqHCvAtNY64ru-WzqI4kpiORW_qVx9XE/view?usp=share_link)
+- [Operating Systems](https://drive.google.com/file/d/1UgzO846VnlktKa-TGN3Z0ZWTGgvdJbmu/view?usp=share_link)
+- [Design & Analysis of Algorithms](https://drive.google.com/file/d/1Uiks8CjQ1L0lV8Ut7E2P7tKWs2mpvC00/view?usp=share_link)
+- [Computer Organization & Architecture](https://drive.google.com/file/d/1UfCA0jlVO6sk3H7NLnPnN4mkHYEqXlwc/view?usp=share_link)
